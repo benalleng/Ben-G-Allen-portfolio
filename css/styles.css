@@ -5049,6 +5049,9 @@ textarea.form-control-lg {
   pointer-events: none;
   background-color: #fff;
 }
+.list-group-item > a {
+  color: #fff;
+}
 .list-group-item.active {
   z-index: 2;
   color: #fff;
