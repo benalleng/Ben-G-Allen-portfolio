@@ -11338,6 +11338,12 @@ html {
 }
 .masthead .masthead-avatar {
   width: 15rem;
+  position: relative;
+  z-index: 2;
+}
+.masthead .masthead-avatar-border {
+  position: relative;
+  z-index: 1;
 }
 
 @media (min-width: 992px) {
