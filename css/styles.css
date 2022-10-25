@@ -11342,6 +11342,7 @@ html {
   z-index: 2;
 }
 .masthead .masthead-avatar-border {
+  width: 16rem;
   position: relative;
   z-index: 1;
   top: -500px;
