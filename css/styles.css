@@ -11339,14 +11339,14 @@ html {
 .masthead .masthead-avatar {
   width: 15rem;
   position: relative;
-  z-index: 2;
+  z-index: 1;
 }
 .masthead .masthead-avatar-border {
   width: 20rem;
   height: 24rem;
   position: relative;
-  z-index: 1;
-  top: -500px;
+  z-index: 2;
+  top: -400px;
 }
 
 @media (min-width: 992px) {
