@@ -6913,6 +6913,7 @@ textarea.form-control-lg {
 
 .flex-column {
   flex-direction: column !important;
+  margin-top: -400px;
 }
 
 .flex-row-reverse {
