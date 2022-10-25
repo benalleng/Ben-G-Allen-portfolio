@@ -11340,6 +11340,7 @@ html {
   width: 15rem;
   position: relative;
   z-index: 1;
+  top: 400px;
 }
 .masthead .masthead-avatar-border {
   width: 19rem;
