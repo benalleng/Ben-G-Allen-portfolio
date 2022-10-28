@@ -11349,6 +11349,7 @@ html {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
   background-image: url(../assets/img/portfolio/Wallpaper-2-colored.png);
+  min-height: 940px;
 }
 .masthead .masthead-heading {
   font-size: 3rem;
